@@ -1,4 +1,4 @@
-# 👗 StyleSnap - AI Fashion Stylist
+# 👗 StyleSnap - AI Fashion Stylist (https://stylesnap-luabeaprherz8daw2dgplx.streamlit.app/)
 
 StyleSnap is a Streamlit chat app. The user enters their name, mobile number,
 email and a photo once. Then they pick an occasion (wedding, sports, temple
